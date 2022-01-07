@@ -4,6 +4,10 @@
 
 The project includes the implementation of the K-Means that is an unsupervised machine learning algorithm.
 
+
+![plot](./plot.jpg)
+
+
 ### Classes
 
 - Clustering is base class. It designed for utilty function (readfile etc.), keeping vector of points and result of clustering.
