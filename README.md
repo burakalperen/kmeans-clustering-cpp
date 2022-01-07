@@ -5,7 +5,7 @@
 The project includes the implementation of the K-Means that is an unsupervised machine learning algorithm.
 
 
-![plot](./plot.jpg)
+![plot](./Plot.jpg)
 
 
 ### Classes
