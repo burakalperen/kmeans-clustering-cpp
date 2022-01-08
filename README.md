@@ -1,4 +1,4 @@
-## Object Orıented Programming I FALL SEMESTER PROJECT
+## Object Oriented Programming I FALL SEMESTER PROJECT
 -----
 ### Abstract
 
